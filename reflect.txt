@@ -1,0 +1,33 @@
+// Name: Navdeep Virdi
+// Seneca email: nvirdi2@myseneca.ca
+// Student ID: 166485193
+// Date: Jan 24, 2021
+
+Reflection
+  Each deliverable was an amazing learning opportunity to work with C++ for the first time 
+however, there were many spaces where it got very complicated. To start, with the first
+deliverable (lab) working with each file and using multiple files and working on them without
+many instructions was pretty complicated. For the DIY, the programming again was very difficult
+because I am very used to programming off instructions. 
+  With the first deliverable, the professor provided w1p1.cpp and that was very helpful in 
+learning what goes where and why. There were a bunch of code given to use but I wanted to type it manually
+because I would learn it faster. The main problem was understanding where everything goes and how it 
+was divided, rather than how to type up the modules. Although I had a clue where all of the information
+goes in the start, I was pretty off which caused a lot of confusion. The placement of everything
+was the most difficult part of this deliverable. While manually typing it out and reading it
+to myself was easier to understand. To fix the confusion - if I were to do this deliverable again -
+I would organize it through a flowchart or pseudocode it once and not scroll through the 
+w1p1.cpp module too much. Going from one end to the other to skip over parts I did not
+understand was the most confusing because I typed it and would skip over and then would have to
+come back and try to understand what I have already used and where. However, this struggle in
+the first deliverable helped out a lot in the second deliverable because I planned ahead. 
+  Starting the second deliverable was much less of a struggle because I had already
+understood what I could have fixed in the first deliverable, to understand and 
+complete the deliverable with fewer issues. For this deliverable, the professor provided more 
+information on what is going to be in the cstring.h as well as what comments underneath to explain
+what each module does. To start with this one, I created pseudocode to understand how each function
+will work out. Then I started to work on the functions I knew for sure how to do and ran the compiler
+when I finished it, to see and fix any errors. Many compiles and errors laters, the programmed had
+worked but the alphabet would not show up and "John Doe" was printing as "@@@@Doe". This was one of
+the smallest yet hardest to find errors, throughout this entire program. It was just a bracket mistake, 
+but this program eventually started to work and run like execution given. 
